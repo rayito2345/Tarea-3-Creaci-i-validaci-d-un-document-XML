@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Empresa de Telecomunicaciones>
+<Secciones>
+    <primer piso>Recepción</primer piso>
+    <Personal>10 personas</personal>
+    <descripcion>
+   Zona donde se recibe a los clientes
+   </descripcion>
+    <segundo piso>Recursos humanos</segundo piso>
+    <Personal>8 personas</Personal>
+    <descripcion>
+    Zona donde se maneja toda la documentación
+    </descripcion>
+    <tercer piso>Area de telecomunicaciones y trabajo</tercer piso>
+    <Personal> 15 personas</Personal>
+    <descripcion>
+    Zona donde se hace todo esl trabajo
+    </descripcion>
+    </Secciones>
+ <Mobiliario>
+    <aseo> toallas y Productos de limpieza corporal </aseo>
+    <cableado> Cables de fibra optica y  cableado de cobre </cableado>
+    <Informatica>Ordenadores y impresoras</Informatica>
+     
+    
+    
+    </Mobiliario>
+    
+    <food>
+    <name>Strawberry Belgian Waffles</name>
+    <price>$7.95</price>
+    <description>
+    Light Belgian waffles covered with strawberries and whipped cream
+    </description>
+    <calories>900</calories>
+</food>
+<food>
+    <name>Berry-Berry Belgian Waffles</name>
+    <price>$8.95</price>
+    <description>
+    Belgian waffles covered with assorted fresh berries and whipped cream
+    </description>
+    <calories>900</calories>
+</food>
+<food>
+    <name>French Toast</name>
+    <price>$4.50</price>
+    <description>
+    Thick slices made from our homemade sourdough bread
+    </description>
+    <calories>600</calories>
+</food>
+<food>
+    <name>Homestyle Breakfast</name>
+    <price>$6.95</price>
+    <description>
+    Two eggs, bacon or sausage, toast, and our ever-popular hash browns
+    </description>
+    <calories>950</calories>
+</food>
+</breakfast_menu>
