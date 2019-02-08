@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE titanic SYSTEM "genero literario.dtd">
+<genero literario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="genero lierario.xsd">
+<Lanzamientos>
+<titulo>Crepusculo<titulo>
+<autor>Stephenie Meyer</autor>
+<Publicación>2005</Publicación>
+<Idioma>Español</Idioma>
+</Lanzamientos>
