@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="note">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="to" type="xs:string"/>
+      <xs:element name="from" type="xs:string"/>
+      <xs:element name="heading" type="xs:string"/>
+      <xs:element name="body" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
+<Empresa de Telecomunicaciones>
+<Secciones>
+    <primer piso>Recepción</primer piso>
+    <Personal>10 personas</personal>
+    <descripcion>
+   Zona donde se recibe a los clientes
+   </descripcion>
+    <segundo piso>Recursos humanos</segundo piso>
+    <Personal>8 personas</Personal>
+    <descripcion>
+    Zona donde se maneja toda la documentación
+    </descripcion>
+    <tercer piso>Area de telecomunicaciones y trabajo</tercer piso>
+    <Personal> 15 personas</Personal>
+    <descripcion>
+    Zona donde se hace todo esl trabajo
+    </descripcion>
+    </Secciones>
+ <Mobiliario>
+    <aseo> toallas y Productos de limpieza corporal </aseo>
+    <cableado> Cables de fibra optica y  cableado de cobre </cableado>
+    <Informatica>Ordenadores y impresoras</Informatica>
+ </Mobiliario>
+<Valores>
+<Primer>Lealtad</Primer>
+<Segundo>Honestidad</Segundo>
+<Tercero>Respeto</Tercero>
+</Valores>
+
+    <Tipos de lineas telefonicas >
+    <Primer>Telefonia fija</Primer>
+    <Segunda>Telefona móvil</Segunda>
+    </Tipos de lineas telefonicas>
+    
+<Tipos de profesionales>
+<Primero> Técnicos</Primero>
+<Segundo>Ingenieros en Telecomunicaciones</Segundo>
+<Tercero>Contadores</Tercero>
+<Cuarto>Informaticos</Cuarto>
+</Tipos de profesionales>
